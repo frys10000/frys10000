@@ -14,4 +14,4 @@ By phone:
     laroche.alexis@free.fr
 
 Linkedin:
-    linkedin.com/in/alexis-laroche-015798206
+    linkedin.com/in/alexis-laroche
