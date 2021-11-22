@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frys10000
+- 👋 Hi, I’m Alexis Laroche
 
 - 👀 I’m interested in Artificial Intelligence (AI)
 
@@ -10,8 +10,6 @@
         +33 6 75 57 04 17
  
     - By mail:
-        alexis.laroche@esme.fr\n
-        laroche.alexis@free.fr
+        alexis.laroche@esme.fr or laroche.alexis@free.fr
 
-    - Linkedin:
-        linkedin.com/in/alexis-laroche
+    - On [Linkedin](www.linkedin.com/in/alexis-laroche)
