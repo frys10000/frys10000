@@ -12,4 +12,4 @@
     - By mail:
         alexis.laroche@esme.fr or laroche.alexis@free.fr
 
-    - On [Linkedin](www.linkedin.com/in/alexis-laroche)
+    - On [Linkedin](https://www.linkedin.com/in/alexis-laroche)
