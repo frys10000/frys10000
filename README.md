@@ -10,6 +10,6 @@
         +33 6 75 57 04 17
  
     - By mail:
-        alexis.laroche@esme.fr or alexis/laroche-fr@outlook.com
+        alexis.laroche@esme.fr or alexis.laroche-fr@outlook.com
 
     - On [Linkedin](https://www.linkedin.com/in/alexis-laroche)
