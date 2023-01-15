@@ -6,9 +6,6 @@
 
 
 - 📫 How to reach me :
-    - By phone: 
-        +33 6 75 57 04 17
- 
     - By mail:
         alexis.laroche@esme.fr or alexis.laroche-fr@outlook.com
 
